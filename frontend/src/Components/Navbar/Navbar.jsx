@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./navbar.css";
+import "./Navbar.css";
 import { Link } from "react-router-dom";
 import profileImg from "./../../assets/profile-img.png"
 import {
